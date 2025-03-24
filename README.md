@@ -30,6 +30,6 @@ A comprehensive backend system for the Restaurant POS application built with Dja
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/restaurant-pos-backend.git
+https://github.com/Addiction35/Restaurant_Backend.git
 cd restaurant-pos-backend
 
